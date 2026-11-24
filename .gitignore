@@ -1,0 +1,12 @@
+# Carpetas de librerías y dependencias pesadas
+vendor/
+vendors/
+dompdf/
+
+# Archivos de configuración con contraseñas locales
+config/
+
+# Archivos del sistema operativo y editores
+.DS_Store
+Thumbs.db
+.vscode/
